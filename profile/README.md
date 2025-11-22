@@ -1,3 +1,5 @@
-# Расширения для PHP-фреймворка
+# Yii2 stuff
 
-Extensions for Yii framework. Personal code from Sergey Mochalov
+Репозитории и расширения для фреймворка Yii2. 
+
+Форки репозиториев и собственные разработки [Sergey Mochalov](https://github.com/proweb)
